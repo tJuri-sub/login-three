@@ -5,7 +5,7 @@ export default {
     extend: {
       backgroundImage: {
         "custom-gradient":
-          "linear-gradient(rgba(0,0,139, 0.5), rgba(0,0,139, 0.5)), url('/bg1.jpg')",
+          "linear-gradient(rgba(14,13,36, 0.5), rgba(14,13,36, 0.5)), url('/bg1.jpg')",
       },
     },
   },
