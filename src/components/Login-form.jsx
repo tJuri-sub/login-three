@@ -43,9 +43,9 @@ export const RegForm = () => {
       </div>
 
       {/* Right Side: Logo */}
-      <div className="bg-gradient-to-r from-[#121212] to-[#030149] w-[50%] p-3 flex flex-col justify-center items-center rounded-r-lg">
+      <div className="bg-gradient-to-r from-[#030149] to-[#121212] w-[50%] p-3 flex flex-col justify-center items-center rounded-r-lg">
         <img
-          className="w-[30%] rounded-2xl shadow-lg mb-3"
+          className="w-[30%] rounded-3xl shadow-lg mb-3"
           src="/logo.png"
           alt="Logo VigiWheel"
         />
