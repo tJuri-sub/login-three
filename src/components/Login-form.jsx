@@ -2,7 +2,7 @@ import { LoginIcon, PassIcon, UserIcon } from "./icons";
 
 export const RegForm = () => {
   return (
-    <div className="w-[50%] mx-auto bg-white min-h-[400px] rounded-lg flex shadow-xl ">
+    <div className="w-[50%] mx-auto bg-white min-h-[400px] rounded-lg flex shadowbox ">
       {/* Left Side: Login Form */}
       <div className="w-[50%] p-3 flex flex-col justify-center">
         <h1 className="text-center text-2xl mb-4">Login</h1>
